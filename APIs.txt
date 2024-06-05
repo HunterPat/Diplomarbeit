@@ -1,3 +1,0 @@
-ERP-XENTRAL: https://developer.xentral.com/reference/intro
-DHL-APIs: https://developer.dhl.com/api-catalog
-GLS-APIs: https://dev-portal.gls-group.net/apis
